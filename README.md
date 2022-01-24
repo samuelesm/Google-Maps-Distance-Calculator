@@ -1,6 +1,8 @@
 # Google-Maps-Distance-Calculator
 Matlab code for Georgia Tech EcoCAR 3 competition in 2016-2017 for generating precise real world distances
 
+![Polyline Example](https://github.com/samuelesm/Google-Maps-Distance-Calculator/blob/main/Polyline.png)
+
 In the innovation category, our team is proposing a program that will use map data on a 
 set GPS route to optimize battery charge. The program would get various data including, 
 coordinates, elevation, distance, average speed, average time, and change in angle for every
